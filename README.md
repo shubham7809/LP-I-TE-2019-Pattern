@@ -1,1 +1,1 @@
-# LP-I-TE-2019-Pattrn
+# LP-I-TE-2019-Pattern
